@@ -28,6 +28,7 @@ Sales by Hours:  Heatmap showing peak sales periods.
 By leveraging data-driven insights, the coffee shop can refine inventory management, optimize staffing for peak hours, and adjust marketing efforts to maximize revenue.
 
 **6) Dasboard Preview**
+https://github.com/Pratibhavyas13/coffee-shops-sales-dashbaord/blob/main/Snapshot%20of%20the%20Dashboard.png
 
 
 
